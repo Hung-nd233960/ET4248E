@@ -6,3 +6,6 @@ dependencies:
     - pathlib
     - scikit-learn
     - pandas
+    - numpy
+    - matplotlib
+    - seaborn
