@@ -1,0 +1,11 @@
+channels:
+
+dependencies:
+  - pip  
+  - pip:
+    - pathlib
+    - scikit-learn
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
